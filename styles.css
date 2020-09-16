@@ -1,39 +1,38 @@
 body {
-    text-align: center;
-    background-color: white;
+	text-align: center;
+	background-color: white;
 }
 
-section {
-    margin: auto;
-}
+section { margin: auto; }
 
 div.block {
-    background-color: lightgray;
-    text-align: left;
-    font: 18px Arial, sans-serif;
-    width: 700px;
-    height: 300px;
-    box-shadow: 1px 1px 1px 1px darkgray;
-    padding: 5px 30px;
-    margin: 20px 30px;
-    float: left;
+	float: left;
+	width: 700px;
+	height: 300px;
+	padding: 5px 30px;
+	margin: 20px 30px;
+	font: 18px Arial, sans-serif;
+	text-align: left;
+	background-color: lightgray;
+	box-shadow: 1px 1px darkgray;
 }
 
 h1 {
-    color: #39C2D7;
+	color: #39c2d7;
+	text-transform: uppercase;
 }
 
 h2 {
-    color: #A3C644;
-    text-align: center;
-    text-transform: uppercase;
+	color: #a3c644;
+	text-align: center;
+	text-transform: uppercase;
 }
 
-table {
-    background: darkgray;
-}
+table { background: darkgray; }
 
-ul, form, h3 {
-    margin: auto;
-    width: 30em;
+ul,
+form,
+h3 {
+	width: 30em;
+	margin: auto;
 }
