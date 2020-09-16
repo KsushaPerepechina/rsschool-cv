@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background-color: white;
+}
+
+section { margin: auto; }
+
+div.block {
+	float: left;
+	width: 700px;
+	height: 300px;
+	padding: 5px 30px;
+	margin: 20px 30px;
+	font: 18px Arial, sans-serif;
+	text-align: left;
+	background-color: lightgray;
+	box-shadow: 1px 1px darkgray;
+}
+
+h1 {
+	color: #39c2d7;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #a3c644;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+table { background: darkgray; }
+
+ul,
+form,
+h3 {
+	width: 30em;
+	margin: auto;
+}
